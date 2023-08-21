@@ -179,9 +179,9 @@ function App() {
 
 export default App;
 export const Head = () => {
-  const title = "Uniswap V3 Pool Overview - Uniswap.fish";
+  const title = "Retro V3 Fee Calculator";
   const description =
-    "Analyze and get an overview of Uniswap v3 pools on Ethereum, Binance (BSC), Polygon, Arbitrum, Optimism, Celo, and more.";
+    "Trade your favourite tokens with low-slippage and efficient pricing. Provide liquidity to earn yields, get paid to vote for pools and more!";
 
   return <SEO title={title} description={description} />;
 };
